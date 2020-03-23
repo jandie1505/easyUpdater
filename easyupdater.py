@@ -8,7 +8,7 @@ import wget
 downloadpath = "./WEBSITE/update.zip" #Path or URL to a ZIPFILE (.zip)
 onlineversionfile = "./WEBSITE/version.txt" #ONLINE VERSIONFILE! Path or URL to a textfile with the Versionnumber inside it.
 versionfile = "./version.txt" #OFFLINE VERSIONFILE! Local File. Current installed Version.
-enableupdatefile = "./enableeupdate.txt" #Local File
+enableupdatefile = "./enableupdate.txt" #Local File
 programdirectory = "./example-program-directory/"
 executeableprogramfile = "./example-program-directory/executable.bat" #Path to the executable File which will be executed after the updater finished.
 
