@@ -10,7 +10,7 @@ onlineversionfile = "./WEBSITE/version.txt" #ONLINE VERSIONFILE! Path or URL to 
 versionfile = "./version.txt" #OFFLINE VERSIONFILE! Local File. Current installed Version.
 enableupdatefile = "./enableupdate.txt" #Local File
 programdirectory = "./example-program-directory/"
-executeableprogramfile = "./example-program-directory/executeable.bat" #Path to the executable File which will be executed after the updater finished.
+executeableprogramfile = "./exampleprogram/executeable.bat" #Path to the executable File which will be executed after the updater finished.
 
 #Other variables
 onlineversion = 0
