@@ -19,7 +19,7 @@ eUversion = 1.0
 enableupdate = 0
 
 #Code
-print("easyUPDATER " + eUversion + " by jandie1505")
+print("easyUPDATER " + str(eUversion) + " by jandie1505")
 print("easyUPDATER is an open-source project.")
 print("easyUpdater and/or jandie1505 accept no liability for any damage to the product.")
 f=open(enableupdatefile, "r")
